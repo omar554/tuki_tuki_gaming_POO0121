@@ -14,3 +14,19 @@ C:\Users\gho78\Documents\ciclo 3\POO\ejercicio01\ejercicio01\obj\Debug\net5.0\ej
 C:\Users\gho78\Documents\ciclo 3\POO\ejercicio01\ejercicio01\obj\Debug\net5.0\ref\ejercicio01.dll
 C:\Users\gho78\Documents\ciclo 3\POO\ejercicio01\ejercicio01\obj\Debug\net5.0\ejercicio01.pdb
 C:\Users\gho78\Documents\ciclo 3\POO\ejercicio01\ejercicio01\obj\Debug\net5.0\ejercicio01.genruntimeconfig.cache
+C:\Users\david\Desktop\tuki_tuki_gaming_POO0121\ejercicio01\bin\Debug\net5.0\ejercicio01.exe
+C:\Users\david\Desktop\tuki_tuki_gaming_POO0121\ejercicio01\bin\Debug\net5.0\ejercicio01.deps.json
+C:\Users\david\Desktop\tuki_tuki_gaming_POO0121\ejercicio01\bin\Debug\net5.0\ejercicio01.runtimeconfig.json
+C:\Users\david\Desktop\tuki_tuki_gaming_POO0121\ejercicio01\bin\Debug\net5.0\ejercicio01.runtimeconfig.dev.json
+C:\Users\david\Desktop\tuki_tuki_gaming_POO0121\ejercicio01\bin\Debug\net5.0\ejercicio01.dll
+C:\Users\david\Desktop\tuki_tuki_gaming_POO0121\ejercicio01\bin\Debug\net5.0\ref\ejercicio01.dll
+C:\Users\david\Desktop\tuki_tuki_gaming_POO0121\ejercicio01\bin\Debug\net5.0\ejercicio01.pdb
+C:\Users\david\Desktop\tuki_tuki_gaming_POO0121\ejercicio01\obj\Debug\net5.0\ejercicio01.csprojAssemblyReference.cache
+C:\Users\david\Desktop\tuki_tuki_gaming_POO0121\ejercicio01\obj\Debug\net5.0\ejercicio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Desktop\tuki_tuki_gaming_POO0121\ejercicio01\obj\Debug\net5.0\ejercicio01.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\tuki_tuki_gaming_POO0121\ejercicio01\obj\Debug\net5.0\ejercicio01.AssemblyInfo.cs
+C:\Users\david\Desktop\tuki_tuki_gaming_POO0121\ejercicio01\obj\Debug\net5.0\ejercicio01.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\tuki_tuki_gaming_POO0121\ejercicio01\obj\Debug\net5.0\ejercicio01.dll
+C:\Users\david\Desktop\tuki_tuki_gaming_POO0121\ejercicio01\obj\Debug\net5.0\ref\ejercicio01.dll
+C:\Users\david\Desktop\tuki_tuki_gaming_POO0121\ejercicio01\obj\Debug\net5.0\ejercicio01.pdb
+C:\Users\david\Desktop\tuki_tuki_gaming_POO0121\ejercicio01\obj\Debug\net5.0\ejercicio01.genruntimeconfig.cache
