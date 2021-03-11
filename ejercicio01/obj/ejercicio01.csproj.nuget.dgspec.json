@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\david\\Desktop\\tuki_tuki_gaming_POO0121\\ejercicio01\\ejercicio01.csproj": {}
+    "C:\\Users\\gho78\\Desktop\\ejercicio\\tuki_tuki_gaming_POO0121\\ejercicio01\\ejercicio01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\david\\Desktop\\tuki_tuki_gaming_POO0121\\ejercicio01\\ejercicio01.csproj": {
+    "C:\\Users\\gho78\\Desktop\\ejercicio\\tuki_tuki_gaming_POO0121\\ejercicio01\\ejercicio01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david\\Desktop\\tuki_tuki_gaming_POO0121\\ejercicio01\\ejercicio01.csproj",
+        "projectUniqueName": "C:\\Users\\gho78\\Desktop\\ejercicio\\tuki_tuki_gaming_POO0121\\ejercicio01\\ejercicio01.csproj",
         "projectName": "ejercicio01",
-        "projectPath": "C:\\Users\\david\\Desktop\\tuki_tuki_gaming_POO0121\\ejercicio01\\ejercicio01.csproj",
-        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\david\\Desktop\\tuki_tuki_gaming_POO0121\\ejercicio01\\obj\\",
+        "projectPath": "C:\\Users\\gho78\\Desktop\\ejercicio\\tuki_tuki_gaming_POO0121\\ejercicio01\\ejercicio01.csproj",
+        "packagesPath": "C:\\Users\\gho78\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gho78\\Desktop\\ejercicio\\tuki_tuki_gaming_POO0121\\ejercicio01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\gho78\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
